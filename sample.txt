@@ -1,0 +1,38 @@
+for test purpose data
+
+non support avatar:
+
+Connected to Intiface!
+Connected Devices:
+lovensehush-0 = 0%
+
+supported avatar
+
+Connected to Intiface!
+Connected Devices:
+lovensehush-0 = 0%
+  orf.Anal.frotOthers = 0%
+  orf.Anal.penOthers = 0%
+  orf.Anal.touchOthers = 0%
+  orf.Blowjob.frotOthers = 0%
+  orf.Blowjob.penOthers = 0%
+  orf.Blowjob.touchOthers = 0%
+  orf.Flashlight_Hole.frotOthers = 0%
+  orf.Flashlight_Hole.penOthers = 0%
+  orf.Flashlight_Hole.touchOthers = 0%
+  orf.Flashlight_Ring.frotOthers = 0%
+  orf.Flashlight_Ring.penOthers = 0%
+  orf.Flashlight_Ring.touchOthers = 0%
+  orf.Socket_Handjob_Left.frotOthers = 0%
+  orf.Socket_Handjob_Left.penOthers = 0%
+  orf.Socket_Handjob_Left.touchOthers = 0%
+  orf.sandpaper.frotOthers = 0%
+  orf.sandpaper.penOthers = 0%
+  orf.sandpaper.touchOthers = 0%
+  pen.Actual_Wsome_Lollipop.frotOthers = 0%
+  pen.Actual_Wsome_Lollipop.penOthers = 0%
+  pen.Actual_Wsome_Lollipop.touchOthers = 0%
+  pen.Werewolf_Cock_P.frotOthers = 0%
+  pen.Werewolf_Cock_P.penOthers = 0%
+  pen.Werewolf_Cock_P.touchOthers = 0%
+  touch.Hip.touchOthers = 0%
